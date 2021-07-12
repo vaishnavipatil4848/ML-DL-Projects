@@ -1,12 +1,6 @@
+## **ML Dl PROJECTS**
+<br>
+![](AdobeStock_237619408-840x480.jpeg)
 Hello  all,
-This is my successful completion of **Task1** and **Task6** of the **GRIPFeb2021** internship at **The Sparks Foundation**.
-
-In the first  notebook I have predicted the Scores of students students based
-on their hours of study time using simple linear regression model.
-
-In the second notebook I have created a Decision Tree classifier on the iris dataset.From there
-on I have visualized the tree using graphviz and made predictions on single training example.
-
-Hope you all find it informative.
-Feel free to star this repo if found useful:)
-
+This Repository consisits of Curated Machine Learning ,Deep Learning Projects by me ranging from classic ML Algorithms to Computer Vision ,Data Viusalization and much more.
+Feel free to Star, this repo if found useful🙂.
