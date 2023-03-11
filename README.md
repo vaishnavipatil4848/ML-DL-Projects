@@ -9,7 +9,5 @@ Feel free to Star, this repo if found useful🙂.</font>
 ## Topics Covered
 
 * Machine Learning
-* Deep  Learning
-* Computer Vision
 * Data Visualization
 * Tableau
